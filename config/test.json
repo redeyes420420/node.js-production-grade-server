@@ -1,0 +1,15 @@
+{
+	"db": {
+		"uri": "*WILL BE CHANGED PROGRAMMATICALLY*",
+		"options": {
+			"useNewUrlParser": true,
+			"useUnifiedTopology": true
+		}
+	},
+	"server": {
+		"port": 3000
+	},
+	"logger": {
+		"format": "tiny"
+	}
+}

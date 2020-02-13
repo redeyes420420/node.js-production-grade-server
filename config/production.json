@@ -1,0 +1,15 @@
+{
+	"db": {
+		"uri": "mongodb+srv://admin:admin@cluster0-ijdvz.mongodb.net/test?retryWrites=true&w=majority",
+		"options": {
+			"useNewUrlParser": true,
+			"useUnifiedTopology": true
+		}
+	},
+	"server": {
+		"port": 3000
+	},
+	"logger": {
+		"format": "combined"
+	}
+}
